@@ -1,3 +1,3 @@
 # CSCI_596
 
-Brief description or tagline about your project.
+This project aims to simulate and visualize the discharging process of LiMn2O4 single particle.
