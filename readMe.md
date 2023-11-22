@@ -1,4 +1,4 @@
-# CSCI_596
+# CSCI_596 Final Project
 This project aims to simulate and visualize the dynamic discharging process of a LiMn<sub>2</sub>O<sub>4</sub> single particle using phase field modeling.
 
 # Background
