@@ -2,7 +2,9 @@
 This project aims to simulate and visualize the dynamic discharging process of a LiMn<sub>2</sub>O<sub>4</sub> single particle using phase field modeling.
 
 # Background
+<p style="text-align: justify;">
 [Experimental findings](https://pubs.acs.org/doi/full/10.1021/acsaem.0c00380) by Erichsen et al. show that during the discharging process, LiMn<sub>2</sub>O<sub>4</sub> particle not only undergoes volumetric expansion, but also generates characteristic texture (i.e., lamellar microstructures). In the subsequent figures, the left side illustrates the dynamic discharging process, while the right side showcases Bragg-filtered HRTEM images of the lamellar microstructure.
+</p>
 
 ![LMO_experiment](LMO_experiment.gif) <img src="LMO_Lamellar_microstructure.jpeg" alt="LMO_lamellar_microstructure" width="400"/>
 
