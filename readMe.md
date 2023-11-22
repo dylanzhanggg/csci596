@@ -7,4 +7,6 @@ This project aims to simulate and visualize the dynamic discharging process of a
 
 ![LMO_experiment](LMO_experiment.gif)
 
+![LMO_lamellar_microstructure](https://example.com/project-image.jpg)
+
 Detailed derivation and result analysis can be found on 
