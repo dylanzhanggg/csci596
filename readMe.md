@@ -7,4 +7,4 @@ This project aims to simulate and visualize the dynamic discharging process of a
 ![LMO_experiment](LMO_experiment.gif) <img src="LMO_Lamellar_microstructure.jpeg" alt="LMO_lamellar_microstructure" width="400"/>
  
 # Tools
-Codes are implemented using Multiphysics Object-Oriented Simulation Environment ([MOOSE](https://mooseframework.inl.gov/index.html)), simulations are executed parallelly on USC CARC, and results are visualized utilizing Paraview.
+Codes are implemented using Multiphysics Object-Oriented Simulation Environment ([MOOSE](https://mooseframework.inl.gov/index.html)), simulations are executed on USC CARC, and results are visualized utilizing [Paraview](https://www.paraview.org/).
