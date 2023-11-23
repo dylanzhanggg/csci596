@@ -8,3 +8,6 @@ This project aims to simulate and visualize the dynamic discharging process of a
  
 # Tools
 C++ codes are implemented using Multiphysics Object-Oriented Simulation Environment ([MOOSE](https://mooseframework.inl.gov/index.html)), simulations are executed on USC CARC, and results are visualized utilizing [Paraview](https://www.paraview.org/).
+
+# Results
+<img src="LMO_simulation.gif" alt="LMO_simulation" width="800"/>
