@@ -11,3 +11,5 @@ C++ codes are implemented using Multiphysics Object-Oriented Simulation Environm
 
 # Results
 <img src="LMO_simulation.gif" alt="LMO_simulation" width="800"/>
+
+For other information about my simulation, please take a look at CSCI596_Final_project.pdf in my repository.
